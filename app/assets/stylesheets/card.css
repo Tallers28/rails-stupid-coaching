@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  padding:20px;
+  border: 5px solid rgb(156, 156, 156);
+  border-style: solid;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: lightgrey;
+
+}
+
+#button {
+  background-color: blue;
+  color: white;
+  margin-top: 10px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: 5px solid rgb(129, 129, 129);
+
+}
